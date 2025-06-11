@@ -1,2 +1,30 @@
-# Simple_Interest_Project_Coursera
-This project is a basic shell script written in Bash that calculates the Simple Interest for a given principal amount, rate of interest, and time. It demonstrates foundational usage of Git, GitHub, and open-source practices including licensing, contributing guidelines, and collaboration workflows.
+# Simple Interest Calculator
+
+This is a simple shell script to calculate simple interest based on user input for Principal, Rate, and Time.
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/simple-interest-project
+   cd simple-interest-project
+   ```
+
+2. Make the script executable and run it:
+   ```bash
+   chmod +x simple-interest.sh
+   ./simple-interest.sh
+   ```
+
+## Example
+
+```
+Enter Principal amount: 1000
+Enter Rate of interest (in %): 5
+Enter Time (in years): 2
+Simple Interest = ₹100.00
+```
+
+## License
+
+Apache 2.0
