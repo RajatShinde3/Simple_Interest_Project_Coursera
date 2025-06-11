@@ -28,3 +28,5 @@ Simple Interest = ₹100.00
 ## License
 
 Apache 2.0
+
+This line was added for the Coursera project demonstration.
